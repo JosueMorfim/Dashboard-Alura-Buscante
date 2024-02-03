@@ -35,7 +35,7 @@ KPI's:
 
 1. Idade média dos clientes;
 2. Profissão mais frequente;
-3. Tipo de contato preferido (whatsapp,email,ligação);
+3. Tipo de contato preferido;
 4. Mapa interativo com cidade dos clientes.
   
 --------
@@ -43,15 +43,10 @@ KPI's:
 
 > Analisando o Dashboard com as informações disponibilizadas, conseguimos identificar as seguintes oportunidades: 
 
-1. Os meses de Janeira, Fevereiro, Março e Abril são os mesês em que o temos menos acesso. Investir em campanhas de marketing nesses períodos pode ser uma boa estratégia;
+1. Os meses de Janeiro, Fevereiro, Março e Abril são os mesês em que o temos menos acesso. Investir em campanhas de marketing nesses períodos pode ser uma boa estratégia;
 
    
-2. Apesar das vendas da empresa estarem em ascensão, as metas de vendas não estão sendo alcançadas.
+2. Apesar das vendas da empresa estarem em ascensão, as metas de vendas não estão sendo alcançadas. Sugiro esclarecer as metas com a equipe, entender as dificuldade que o time esta tendo em alcançar os objetivos. Elaborar uma campanha de vendas com premiação é um bom motivador.
 
    
-3. Quando criamos um indicador para idade média do cliente e tipo de contato preferido, conseguimos ver três grupos se formando, os que tem em média 53 anos, e tem como meio de contato preferido uma ligação, os com idade média de 31 anos preferem ser contatados via e-mail e os mais jovens via whatsapp. Organizar uma estratégia de marketing por faixa etária e reforçar com o time de vendas a preferência de contato dos clientes podem gerar resultados positivos.
-
-
-
-
-
+3. Quando criamos um indicador para idade média do cliente e tipo de contato preferido, conseguimos ver três grupos se formando, os clientes que tem em média 53 anos tem como meio de contato preferido ligação, clientes com idade média de 31 anos preferem ser contatados via e-mail e os mais jovens via whatsapp. Organizar uma estratégia de marketing por faixa etária e reforçar com o time de vendas a preferência de contato dos clientes podem gerar resultados positivos.
